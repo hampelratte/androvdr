@@ -1,4 +1,3 @@
-lib/*
-bin/*
-gen/*
-libs
+lib
+bin
+gen
